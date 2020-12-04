@@ -16,11 +16,11 @@ module.exports = {
     )
   },
   siteMetadata: {
-    title: `Midway`,
-    description: `Gatsby + Sanity + Shopify Repo`,
-    siteUrl: `https://midway.ctrlaltdel.world`,
-    author: `iamkevingreen`,
-    password: true
+    title: `IDLE HOURS`,
+    description: `Store and Leisure Club`,
+    siteUrl: `https://idlehours.co`,
+    author: `ashercaplan`,
+    password: false
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
